@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thanks for looking to my profile. 👋
 
 <!--
 **hellovlady/hellovlady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 "Your success is my happiness, I always do my best for your success."
 This is my goal.
 
-Thanks for looking to my profile.
-I'm Vladyslav and full stack Web & Mobile | Blockchain developer with over 4 years of experience.
+😄 I'm Vladyslav and full stack Web & Mobile | Blockchain developer with over 4 years of experience.
 
-Here are my skills.
+⚡ Here are my skills.
 - Back-end & Front-end Development
 - React/Angular/Vue/Next
 - Javascript/jQuery/Typescript/Coffeescript/ECMA
