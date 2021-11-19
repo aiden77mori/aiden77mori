@@ -54,9 +54,9 @@ Thank you for taking time to read my profile.
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 <p align="center">
-    <a href="https://github.com/hellovlady" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
-    <a href="https://fastlancer.blogspot.com" alt="Dev"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/dev.png"></a>
-    <a href="https://happylancers.blogspot.com" alt="Medium"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/medium.png"></a>
+    <a href="https://github.com/hellovlady" alt="GitHub"><img src="https://github.com/hellovlady/image/blob/master/readme/github.png"></a>
+    <a href="https://fastlancer.blogspot.com" alt="Dev"><img src="https://github.com/hellovlady/image/blob/master/readme/dev.png"></a>
+    <a href="https://happylancers.blogspot.com" alt="Medium"><img src="https://github.com/hellovlady/image/blob/master/readme/medium.png"></a>
 </p>
   
 </p>
