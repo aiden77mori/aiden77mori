@@ -52,12 +52,11 @@ Thank you for taking time to read my profile.
 
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+  <i>Please check my github and blogs.</i>
 <p align="center">
-    <a href="https://github.com/hellovlady" alt="GitHub"></a>
-    <a href="https://fastlancer.blogspot.com" alt="Dev">![icon](https://user-images.githubusercontent.com/89995315/142566882-c974b47a-2067-4f56-aca1-921cf33b1ccc.png)</a>
-    <a href="https://happylancers.blogspot.com" alt="Medium">![icon](https://user-images.githubusercontent.com/89995315/142566882-c974b47a-2067-4f56-aca1-921cf33b1ccc.png)</a>
+    <a href="https://github.com/hellovlady" alt="GitHub">🔭</a>
+    <a href="https://fastlancer.blogspot.com" alt="Dev">🌱</a>
+    <a href="https://happylancers.blogspot.com" alt="Medium">👯</a>
 </p>
-  
-![icon](https://user-images.githubusercontent.com/89995315/142566882-c974b47a-2067-4f56-aca1-921cf33b1ccc.png)
+ 
 
