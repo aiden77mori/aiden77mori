@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 "Your success is my happiness, I always do my best for your success."
 This is my goal.
 
-😄 I'm Vladyslav and full stack Web & Mobile | Blockchain developer with over 4 years of experience.
+😄 I'm Vladyslav, and full stack Web & Mobile | Blockchain developer with 4 + years of experience.
 
 ⚡ Here are my skills.
 - Back-end & Front-end Development
@@ -31,6 +31,7 @@ This is my goal.
 - PostgreSQL/MySQL/MongoDB
 - AWS/Digital Ocean/Nginx/Heroku
 - Chart js/Anychart js/Dthree js.
+- Solidty/Blockchain
 
 Thank you for taking time to read my profile.
 
