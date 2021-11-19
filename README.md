@@ -39,7 +39,7 @@ Thank you for taking time to read my profile.
   <summary>Some interesting facts about me!</summary>
   <br>
 
-  - In mean time, I create visual and artistic images using photoshop, you can check those are on **[My Blog](https://fastlancer.blogspot.com/2021/09/panda-nft.html/)**.
+  - In mean time, I create visual and artistic images using photoshop, you can check those are on **[My Blog](https://fastlancer.blogspot.com/2021/09/panda-nft.html)**.
 
   - While Coding, Listening Music and developing useful code. ⭐️
 
