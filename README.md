@@ -1,31 +1,28 @@
-## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Let your dreams come true !
+## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Build Your Dream
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Darkhorse07232020&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
-</p>
+Build Your Dream. Dream is very important for eveyone. This is chance you can build your dream. I 'll help you to success in your business.
 
 
-## Epic Full Stack Developer | Blockchain Expert
+## Web & Mobile Developer | Blockchain Expert
 
--@- Dream is yours, Implement is mine. -@-
-<p style = "margin-left: 30px">
-Deep understanding of Mathematics and OOP.<br>
-6+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
-Moving blockchain world in recent years and already have enough experience.<br>
-I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!<br>
-Are you looking for an honest and superior senior full stack developer?<br>
-Please contact me, I will do for you ASAP and my best to create a "Best Quality" project for my customers.
-</p>
+
 
 <img align="right" width="350" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/image03.gif" />
 
 ##
-##### My mission
-- **[ Perfect result | Best Quality |  On-time Delivery ]**
-- [ app architecture | clean code | full documentation | product design | continuous integration | task prioritization | automatic deployment ]
-
-##
 ##### My skills
+<p style = "margin-left: 30px">
+- Back-end & front-end development
+- Javascript/jQuery/Typescript/Coffeescript/ECMA
+- React/Next/Angular/Vue/Svelte
+- Node.js/Express.js/PHP
+- Ionic/React Native/Flutter
+- Laravel/CodeIgniter/WordPress
+- PostgreSQL/MySQL/MongoDB
+- HTML5/Bootstrap/CSS/SCSS/Tailwind
+- AWS/Digital Ocean/Nginx/Heroku
+- Chart js/Anychart js/Dthree js.
+</p>
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
@@ -71,6 +68,9 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 
 ##
 ##### GitHub status
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Darkhorse07232020&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
+</p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mastercodingbear&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodingbear&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
 </p>
