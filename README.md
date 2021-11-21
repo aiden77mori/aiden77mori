@@ -5,23 +5,19 @@ Build Your Dream. Dream is very important for eveyone. This is chance you can bu
 
 ## Web & Mobile Developer | Blockchain Expert
 
-
-
 <img align="right" width="350" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/image03.gif" />
 
-##
-##### My skills
 <p style = "margin-left: 30px">
-- Back-end & front-end development
-- Javascript/jQuery/Typescript/Coffeescript/ECMA
-- React/Next/Angular/Vue/Svelte
-- Node.js/Express.js/PHP
-- Ionic/React Native/Flutter
-- Laravel/CodeIgniter/WordPress
-- PostgreSQL/MySQL/MongoDB
-- HTML5/Bootstrap/CSS/SCSS/Tailwind
-- AWS/Digital Ocean/Nginx/Heroku
-- Chart js/Anychart js/Dthree js.
+- Back-end & front-end development <br>
+- Javascript/jQuery/Typescript/Coffeescript/ECMA <br>
+- React/Next/Angular/Vue/Svelte <br>
+- Node.js/Express.js/PHP <br>
+- Ionic/React Native/Flutter <br>
+- Laravel/CodeIgniter/WordPress <br>
+- PostgreSQL/MySQL/MongoDB <br>
+- HTML5/Bootstrap/CSS/SCSS/Tailwind <br>
+- AWS/Digital Ocean/Nginx/Heroku <br>
+- Chart js/Anychart js/Dthree js. <br>
 </p>
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -69,12 +65,9 @@ Build Your Dream. Dream is very important for eveyone. This is chance you can bu
 ##
 ##### GitHub status
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Darkhorse07232020&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hellovlady&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mastercodingbear&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodingbear&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=hellovlady&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellovlady&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
 </p>
-<div>
-    <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
-</div>
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
