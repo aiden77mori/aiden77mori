@@ -1,4 +1,4 @@
-## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Build Your Dream
+## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> ## Build Your Dream
 
 Build Your Dream. Dream is very important for eveyone. This is chance you can build your dream. I 'll help you to success in your business.
 
@@ -64,9 +64,6 @@ Build Your Dream. Dream is very important for eveyone. This is chance you can bu
 
 ##
 ##### GitHub status
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=hellovlady&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
-</p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hellovlady&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellovlady&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
 </p>
