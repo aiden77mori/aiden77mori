@@ -8,16 +8,24 @@ Build Your Dream. Dream is very important for eveyone. This is chance you can bu
 <img align="right" width="350" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/image03.gif" />
 
 <p style = "margin-left: 30px">
-- Back-end & front-end development <br>
-- Javascript/jQuery/Typescript/Coffeescript/ECMA <br>
-- React/Next/Angular/Vue/Svelte <br>
-- Node.js/Express.js/PHP <br>
-- Ionic/React Native/Flutter <br>
-- Laravel/CodeIgniter/WordPress <br>
-- PostgreSQL/MySQL/MongoDB <br>
-- HTML5/Bootstrap/CSS/SCSS/Tailwind <br>
-- AWS/Digital Ocean/Nginx/Heroku <br>
-- Chart js/Anychart js/Dthree js. <br>
+1. Blockchain
+- Solidity, Rust, Haskell
+- Web3.js, Ether.js
+- Remix IDE,
+- Truffle, HardHat
+- Dapp, Defi
+
+2. Full Stack
+- Back End & Front End development
+- Javascript/jQuery/Typescript/
+- React/Angular/Vue/Svelte
+- Node.js/Express.js/PHP
+- Ionic/ReactNative/Flutter
+- Laravel/CodeIgniter/WordPress
+- PostgreSQL/MySQL/MongoDB
+- HTML5/Bootstrap/CSS3/SCSS/TailwindCSS
+- AWS/Digital Ocean/Nginx/Heroku
+- Dthree.js
 </p>
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
