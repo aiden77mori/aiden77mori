@@ -9,17 +9,11 @@ Build Your Dream. Dream is very important for eveyone. This is chance you can bu
 
 <p style = "margin-left: 30px">
 1. Blockchain
-    
 - Solidity/Rust/Haskell
-    
 - Web3.js/Ether.js
-    
-- Remix IDE
-    
+- Remix IDE    
 - Truffle/HardHat
-    
 - DEX/DEFI/NFT
-    
 
 2. Full Stack
 - Back End & Front End development
