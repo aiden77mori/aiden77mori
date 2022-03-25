@@ -16,7 +16,7 @@ Build Your Dream. Dream is very important for eveyone. This is chance you can bu
     
 - Remix IDE
     
-- Truffle/HardHat
+- Truffle/Hardhat
     
 - DEX/DEFI/NFT
 
