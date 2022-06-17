@@ -33,7 +33,7 @@ I would be happy if we create a software product where we can feel love.
 - Laravel/CodeIgniter/WordPress
 - PostgreSQL/MySQL/MongoDB
 - HTML5/Bootstrap/CSS3/SCSS/TailwindCSS
-- AWS/Digital Ocean/Nginx/Heroku
+- AWS/Digital Ocean/Nginx/Heroku/Netlify
 - Dthree.js
 </p>
 
