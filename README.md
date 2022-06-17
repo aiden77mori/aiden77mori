@@ -2,6 +2,10 @@
 
 Build Your Dream. Dream is very important for eveyone. This is chance you can build your dream. I 'll help you to success in your business.
 
+I don’t believe in luck. Instead, full of passion.
+I believe passion never fails. Always trust passion and try.
+I would be happy if we create a software product where we can feel love. 
+
 
 ## Web & Mobile Developer | Blockchain Expert
 
