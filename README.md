@@ -24,6 +24,8 @@ I would be happy if we create a software product where we can feel love.
     
 - DEX/DEFI/NFT/Token Generation
 
+- Blockchain Game (P2E, M2E, etc...)
+ 
 2. Full Stack
 - Back End & Front End development
 - Javascript/jQuery/Typescript
