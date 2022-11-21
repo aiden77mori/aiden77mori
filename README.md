@@ -1,6 +1,9 @@
 ## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Build Your Dream
 
-Dream is very important for everyone. You dream and I 'll realize your Dream. This is chance you can build your dream. I 'll help you to success in your business.
+Senior Web, Blockchain and Mobile developer who has 7 years experience. 
+Experience in Leading a team of front-end, back-end and smart contract developers. 
+Developed DeFi, NFT marketplace and Tokens on Ethereum, Polygon and Binance Smart Chain. 
+Advanced knowledge of multiple programming languages, frameworks and extensive familiarity with several database structures.
 
 I don’t believe in luck. Instead, full of passion.
 I believe passion never fails. Always trust passion and try.
