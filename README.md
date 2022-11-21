@@ -14,29 +14,23 @@ I would be happy if we create a software product where we can feel love.
 <p style = "margin-left: 30px">
  
 1. Blockchain
-- Solidity/Rust/Haskell
+- Solidity / Rust / Haskell
+ 
+- Remix, Hardhat, Truffle, Unit Test
     
-- Web3.js/Ethers.js
+- Web3.js / Ethers.js
     
-- Remix IDE
-    
-- Truffle/Hardhat
-    
-- DEX/DEFI/NFT/Token Generation
+- DEX / DEFI / NFT / Token Generation
 
 - Blockchain Game (P2E, M2E, etc...)
  
 2. Full Stack
-- Back End & Front End development
-- Javascript/jQuery/Typescript
-- React/Angular/Vue/Svelte/Next.js
-- Node.js/Express.js/PHP
-- Ionic/ReactNative/Flutter
-- Laravel/CodeIgniter/WordPress
-- PostgreSQL/MySQL/MongoDB
-- HTML5/Bootstrap/CSS3/SCSS/TailwindCSS
-- AWS/Digital Ocean/Nginx/Heroku/Netlify
-- Dthree.js
+- React / Angular / Vue /Svelte / Next / Typescript
+- Node.js / Express.js / PHP
+- Ionic / ReactNative / Flutter
+- PostgreSQL / MySQL / MongoDB
+- HTML5 /Bootstrap /CSS3 / SCSS / TailwindCSS
+- AWS / Digital Ocean / Nginx / Heroku / Netlify
 </p>
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
