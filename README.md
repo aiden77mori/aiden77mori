@@ -19,7 +19,7 @@ I would be happy if we create a software product where we can feel love.
 1. Blockchain
 - Solidity / Rust / Haskell
  
-- Remix, Hardhat, Truffle, Unit Test
+- Remix, Hardhat, Truffle
     
 - Web3.js / Ethers.js
     
