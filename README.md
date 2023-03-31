@@ -30,7 +30,7 @@ I would be happy if we create a software product where we can feel love.
 - Blockchain Game (P2E, M2E, etc...)
  
 2. Full Stack
-- React / Angular / Vue /Svelte / Next / Typescript
+- React / Angular / Vue / Svelte / Next / Typescript
 - Node.js / Express.js / PHP
 - Ionic / ReactNative / Flutter
 - PostgreSQL / MySQL / MongoDB
