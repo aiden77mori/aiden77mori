@@ -1,4 +1,4 @@
-## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Build Your Dream
+## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> DIFINES Team Leader
 
 I am an experienced and detail-oriented web and smart contract developer with expertise in leading teams of front-end, back-end, and smart contract developers. 
 I have developed various DeFi, NFT marketplace, and web3 projects, including games on different blockchain platforms such as Ethereum, Polygon, and Binance Smart Chain. My extensive knowledge of programming languages, frameworks, and database structures, combined with exceptional analytical and time management skills, make me a reliable team player capable of solving complex problems. 
