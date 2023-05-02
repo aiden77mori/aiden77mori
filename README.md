@@ -1,4 +1,4 @@
-## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> DIFINES Team Leader
+## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Full Stack, Blockchain Developer
 
 I am a full stack, blockchain developer with 8+ years experience and leading a team of front-end, back-end, and smart contract developers. My portfolio includes a variety of successful DeFi, NFT marketplace, and Web3 projects, as well as games built on Ethereum, Polygon, and Binance Smart Chain. 
 As a proficient developer, I have an extensive understanding of programming languages, frameworks, and database structures, and am skilled in analyzing and resolving intricate problems. I am highly committed to staying up-to-date with the latest technology trends and consistently delivering high-quality work, which makes me an invaluable to your team.
