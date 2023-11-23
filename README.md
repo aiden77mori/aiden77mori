@@ -4,7 +4,7 @@ I am a full stack, blockchain developer with 8+ years experience and leading a t
 As a proficient developer, I have an extensive understanding of programming languages, frameworks, and database structures, and am skilled in analyzing and resolving intricate problems. I am highly committed to staying up-to-date with the latest technology trends and consistently delivering high-quality work, which makes me an invaluable to your team.
 
 
-## Web & Mobile Developer | Blockchain Expert
+## Web3 && Web2 Skill Set
 
 <img align="right" width="350" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/image03.gif" />
 
