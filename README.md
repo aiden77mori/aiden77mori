@@ -2,8 +2,7 @@
 
 <p align="left" style="font-family: Brush Script MT;"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Aiden-Mori" />
 
-I am a full stack, blockchain developer with 8+ years experience and leading a team of front-end, back-end, and smart contract developers. My portfolio includes a variety of successful DeFi, NFT marketplace, and Web3 projects, as well as games built on Ethereum, Polygon, and Binance Smart Chain. 
-As a proficient developer, I have an extensive understanding of programming languages, frameworks, and database structures, and am skilled in analyzing and resolving intricate problems. I am highly committed to staying up-to-date with the latest technology trends and consistently delivering high-quality work, which makes me an invaluable to your team.
+I am a full-stack blockchain developer with 8+ years of experience, currently leading a team of front-end, back-end, AI, and smart contract developers. My portfolio includes successful DeFi platforms, NFT marketplaces, Web3 applications, and blockchain-based games built on Ethereum, Polygon, and Binance Smart Chain. I bring deep expertise in programming languages, frameworks, and database structures, and am adept at solving complex technical challenges. Recently, I’ve integrated AI technologies—such as LLMs and machine learning models—into Web3 projects to enhance automation, personalization, and intelligent data analysis. My commitment to staying at the forefront of both blockchain and AI ensures I consistently deliver innovative, high-quality solutions that add significant value to any team.
 
 
 ## Web3 && Web2 Skill Set
@@ -24,12 +23,13 @@ As a proficient developer, I have an extensive understanding of programming lang
 - Blockchain Game (P2E, M2E, etc...), Metaverse
  
 2. Full Stack
-- React / Angular / Vue / Svelte / Next / Typescript
-- Node.js / Express.js / PHP
+- React / Next / Angular / Vue / Svelte / Typescript
+- Node.js / Express.js / PHP / Nest.js
 - Ionic / ReactNative / Flutter
-- PostgreSQL / MySQL / MongoDB
-- HTML5 /Bootstrap /CSS3 / SCSS / TailwindCSS
-- AWS / Digital Ocean / Nginx / Heroku / Netlify
+- HTML5 / Bootstrap / CSS3 / SCSS / TailwindCSS
+- PostgreSQL / MySQL / MongoDB / Firebase / Supabase
+- AWS / Digital Ocean / Nginx / Heroku / Netlify / Vercel
+- Lovable / V0 / Replit / WeWeb
 </p>
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
