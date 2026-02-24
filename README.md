@@ -96,13 +96,4 @@ I enjoy solving complex system problems — from transaction engines and digital
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aiden77mori&theme=highcontrast&include_all_commits=true" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiden77mori&layout=compact&theme=highcontrast" height="165"/>
-</p>
-
----
-
 ⭐ *Always open to collaborating on platform engineering, AI infrastructure, and next-generation digital systems.*
