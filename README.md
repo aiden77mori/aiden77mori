@@ -1,4 +1,4 @@
-## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Senior Full Stack | Blockchain | AI Platform Engineer
+## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" />Senior Full Stack Engineer | SaaS, Fintech, AI & Web3 Platforms
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aiden77mori&label=Profile%20views&color=0e75b6&style=flat" />
