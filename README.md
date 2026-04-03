@@ -1,99 +1,154 @@
-## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" />Senior Full Stack Engineer | SaaS, Fintech, AI & Web3 Platforms
+# Daniel Tran
+### Senior Full Stack Engineer
+SaaS • Fintech • AI • Web3 Platforms
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aiden77mori&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+Building scalable financial systems, digital asset infrastructure, and AI-powered platforms.
 
-I’m a **Senior Full Stack Engineer with 9+ years of experience** building scalable SaaS, fintech, and digital asset platforms across **Web2, Web3, and AI-driven systems**.
-
-I specialize in designing **high-concurrency backend architectures**, blockchain-integrated applications, exchange and wallet infrastructure, and cloud-native platforms operating at production scale.
-
-Recently, my work has focused on combining **AI capabilities with distributed systems**, integrating LLM-powered automation, intelligent analytics, and developer productivity workflows into modern platform engineering environments.
-
-I enjoy solving complex system problems — from transaction engines and digital economies to scalable APIs and intelligent platform automation.
+[Portfolio](https://0xdanieltran.vercel.app) • [LinkedIn] • [GitHub] • [Email]
 
 ---
 
-## 🚀 Engineering Highlights
+## About Me
 
-- ✅ Architected **DFS Chain ecosystem** including wallet, exchange, explorer, and token infrastructure
-- ✅ Built hybrid **Web2 ↔ Web3 asset bridge & exchange systems**
-- ✅ Designed high-throughput backend services handling **millions of transactions**
-- ✅ Delivered DeFi platforms, NFT marketplaces, and blockchain infrastructure
-- ✅ Integrated **AI-assisted analytics & automation** into production platforms
-- ✅ Experienced across full lifecycle: architecture → development → deployment → scaling
+Senior Full Stack Engineer with 9+ years building production SaaS platforms, fintech infrastructure, and blockchain ecosystems. Strong focus on backend architecture, distributed systems, and high-scale platform engineering.
 
----
-
-## 🧠 Core Expertise
-
-### Blockchain & Digital Asset Infrastructure
-- Ethereum / EVM Ecosystems
-- Smart Contract Integration
-- Wallet & Custody Systems
-- Exchange & Tokenomics Platforms
-- Cross-Chain Asset Bridging
-- DeFi / DEX Architecture
-
-### Full Stack & Platform Engineering
-- React / Next.js / TypeScript
-- Node.js / Express / NestJS
-- Microservices & Distributed Systems
-- High-Concurrency API Design
-- GraphQL / REST Architecture
-- Cloud-Native Application Design
-
-### AI & Intelligent Systems
-- OpenAI & LLM API Integration
-- AI-Assisted Automation
-- Intelligent Analytics Pipelines
-- AI-Augmented Development Workflows
-- Agent-based System Concepts
-
-### Cloud & DevOps
-- AWS / Azure / GCP
-- Docker / Kubernetes
-- CI/CD Pipelines
-- Observability & Monitoring
-- Scalable Infrastructure Design
+Currently focused on:
+- AI integrated platform engineering
+- Digital asset infrastructure
+- Financial backend automation
+- Developer productivity systems
 
 ---
 
-## 🧰 Technology Stack
+## Selected Projects
 
-<img align="right" width="350" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/image03.gif" />
+### DFS Chain Ecosystem
+Wallet • Exchange • Explorer • Token Infrastructure
 
-**Frontend**
-- React • Next.js • TypeScript • Vue
-- TailwindCSS • Design Systems • SPA Architecture
+Built a complete digital asset ecosystem including wallet infrastructure, transaction engine, token management, and simulated exchange systems.
 
-**Backend**
-- Node.js • Express • NestJS
-- Distributed Services • Queue Systems
-- Authentication & Identity Systems
+Tech:
+Next.js • Node.js • PostgreSQL • Redis • Distributed services
 
-**Blockchain**
-- Solidity • Web3.js • Ethers.js
-- DeFi • DEX • NFT Platforms
-
-**Databases**
-- PostgreSQL • MongoDB • Redis
-- Elasticsearch • Supabase
-
-**AI**
-- OpenAI API
-- LLM Integration
-- AI Automation Workflows
+Key work:
+- Designed transaction engine
+- Built wallet infrastructure
+- Developed token lifecycle system
+- Implemented exchange simulation logic
 
 ---
 
-## ⚡ What I’m Currently Focused On
+### WEX Exchange Platform
+DEX style trading platform simulating blockchain mechanics in Web2 architecture.
 
-- AI + Blockchain platform convergence  
-- Intelligent backend automation  
-- Scalable financial infrastructure  
-- Developer productivity systems powered by AI  
+Tech:
+React • Node • Microservices • Queue systems
+
+Key work:
+- Swap engine design
+- Liquidity pool simulation
+- Order routing logic
+- Financial calculation engine
 
 ---
 
-⭐ *Always open to collaborating on platform engineering, AI infrastructure, and next-generation digital systems.*
+### AI Platform Automation Systems
+
+Integrated LLM powered workflows into production engineering environments.
+
+Tech:
+OpenAI API • Node • Platform tooling
+
+Key work:
+- AI workflow automation
+- Developer productivity tools
+- Analytics integration
+- Intelligent backend processes
+
+---
+
+## Engineering Capabilities
+
+### Platform Engineering
+- Distributed architecture
+- High concurrency backend design
+- Microservices systems
+- Financial transaction platforms
+- API architecture
+
+### Blockchain Infrastructure
+- Wallet platforms
+- Exchange systems
+- Token infrastructure
+- DeFi architecture
+- Web3 integrations
+
+### AI Systems
+- LLM integrations
+- AI automation workflows
+- Intelligent analytics
+- Agent concepts
+
+### Cloud Architecture
+- AWS
+- Docker
+- Kubernetes
+- CI/CD systems
+- Observability
+
+---
+
+## Technology Stack
+
+### Frontend
+React • Next.js • TypeScript • Tailwind • Vue
+
+### Backend
+Node.js • Express • NestJS • GraphQL • REST
+
+### Data
+PostgreSQL • MongoDB • Redis • Elasticsearch • Supabase
+
+### Blockchain
+Solidity • Web3.js • Ethers.js • DeFi systems
+
+### AI
+OpenAI • LLM integration • Automation workflows
+
+---
+
+## Experience Highlights
+
+- Built digital asset platforms and exchange infrastructure
+- Designed backend systems handling millions of operations
+- Delivered SaaS and fintech platforms
+- Integrated AI workflows into production systems
+- Led architecture and scaling initiatives
+
+---
+
+## Current Focus
+
+AI + Financial infrastructure  
+Intelligent backend systems  
+Digital economies  
+Platform automation  
+
+---
+
+## Contact
+
+Portfolio:
+https://0xdanieltran.vercel.app
+
+Open to:
+Platform engineering roles  
+AI infrastructure work  
+Financial systems  
+Blockchain engineering
+
+---
+
+## GitHub Stats
+
+(stats widgets here)
