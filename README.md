@@ -4,7 +4,7 @@ SaaS • Fintech • AI • Web3 Platforms
 
 Building scalable financial systems, digital asset infrastructure, and AI-powered platforms.
 
-[Portfolio](https://0xdanieltran.vercel.app) • [LinkedIn] • [GitHub] • [Email]
+[Portfolio](https://0xdanieltran.vercel.app) • [LinkedIn](https://linkedin.com/in/0xdanieltran) • [X](https://x.com/0xdanieltran106) • [GitHub](https://github.com/0xdanieltran) • [Email](danillppiont106@gmail.com)
 
 ---
 
